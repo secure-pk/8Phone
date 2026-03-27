@@ -1,2 +1,2 @@
 # 8Phone
-8Phone OS • 1.0.8
+8Phone OS • 1.1.1 Pro
